@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bird</string>
+    <string name="the_best_score">The Best Score</string>
+    <string name="start_again">Start Again</string>
+</resources>
